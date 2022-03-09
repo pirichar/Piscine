@@ -1,0 +1,7 @@
+Credentials cache: API:99D558A1-6207-42CD-8043-82AE825E1FA5
+        Principal: pirichar@42QUEBEC.COM
+
+  Issued                Expires               Principal
+Jul  5 13:58:57 2021  Jul  5 23:58:57 2021  krbtgt/42QUEBEC.COM@42QUEBEC.COM
+
+
